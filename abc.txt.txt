@@ -1,5 +1,5 @@
 hi,
 learning git.
-add
-commit
-push
+add // git add .
+commit // git commit -am
+push // git push
