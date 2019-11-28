@@ -1,0 +1,5 @@
+hi,
+learning git.
+add
+commit
+push
