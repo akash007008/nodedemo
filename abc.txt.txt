@@ -1,5 +1,0 @@
-hi,
-learning git.
-add // git add .
-commit // git commit -am
-push // git push
